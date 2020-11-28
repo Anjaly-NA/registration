@@ -1,0 +1,8 @@
+.table_container{
+    width:800px;
+}
+.main_container_search{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
